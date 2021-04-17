@@ -22,7 +22,7 @@ You will find all the technical informations below ⬇️
 +	PROJECT TYPE : ##End-to-End## == EDA >> DataViz >> Feature engineering >> Feature selection >>  Model training >> Deployment (using Streamlit & Heroku)
 
 
-+	DATASET USED : include inside the repo’ (it comes from Kaggle)
++	DATASET USED : include inside the repo’
 
 +	STACK USED : Jupyter Notebook / Scikit-Learn / VS Code / Git-GitHub / Streamlit / Docker / Kubernetes / GCP
 
