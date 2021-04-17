@@ -4,7 +4,7 @@ Hi everyone,
 
 This project aimed to find the best model for predicting real estate price according to a bunch of features. 
 
-# The project has been deployed on Google Cloud Platform (GCP) using Docker ang Kubernetes
+##### The project has been deployed on Google Cloud Platform (GCP) using Docker ang Kubernetes
 
 You will find all the technical informations below ⬇️ 
 
